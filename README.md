@@ -19,7 +19,7 @@
 ## Install / Development
 
 ```bash
-git clone https://github.com/dragonboy612/Angular-Express-Starter
+git clone https://github.com/SeniorDev34/Angular-Express-Starter
 cd Angular-Express-Starter
 
 # Install dependencies
